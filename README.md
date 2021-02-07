@@ -11,7 +11,7 @@ Below is a table of my findings for temperature data in June and December from H
 
 - Even at its coldest, Hawaii does not get colder than 56F degrees. People could still be surfing but it’s definitely not too cold for ice cream. 56F may still be cold but it’s not too low from June’s low’s of 64F. 
 
-- Both summaries show us that Hawaii’s temperature has an even distribution and small standard deviation (3-4), meaning that their temperature is very similar year-round. June has more temperature data reported than December (almostgit s 200 more). 
+- Both summaries show us that Hawaii’s temperature has an even distribution and small standard deviation (3-4), meaning that their temperature is very similar year-round. June has more temperature data reported than December (almost 200 more). 
 
 # Summary: 
 The results are similar in both months, June and December. This is expected since Hawaii is in a tropical environment. There is a low distribution of results since the standard deviations are between 3-4. Both the mean and median are between 70F - 75F degrees, fantastic temperatures for surfing. Two other queries I would perform to gather more weather data for June and December would include:
